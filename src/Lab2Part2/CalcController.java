@@ -1,5 +1,8 @@
 package Lab2Part2;
 
+/* @author Daniel Grewal
+*  @date   02/11/15
+*/
 import java.awt.event.*;
 
 public class CalcController {
